@@ -1,6 +1,6 @@
 {
   "name": "popscribe",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A cms using react, graphql and modern tools",
   "bin": {
     "popscribe": "./bin/popscribe.ts"
