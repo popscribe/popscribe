@@ -1,0 +1,16 @@
+{
+  "name": "popsribe",
+  "version": "0.0.1",
+  "description": "A cms using react, graphql and modern tools",
+  "keywords": [
+    "cms",
+    "react",
+    "graphql",
+    "node"
+  ],
+  "author": "Alleo Indong",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
