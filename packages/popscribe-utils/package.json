@@ -1,0 +1,16 @@
+{
+  "name": "popsribe-utils",
+  "version": "0.0.1",
+  "description": "Utility library for popscribe",
+  "keywords": [
+    "popscribe",
+    "utility",
+    "functions"
+  ],
+  "author": "Alleo Indong",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "lodash": "^4.17.11"
+  }
+}
