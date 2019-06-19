@@ -12,5 +12,8 @@
     "node"
   ],
   "author": "Alleo Indong",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
 }
