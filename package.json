@@ -1,0 +1,16 @@
+{
+  "name": "popsribe",
+  "version": "0.0.1",
+  "description": "A cms using react, graphql and modern tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cms",
+    "react",
+    "graphql",
+    "node"
+  ],
+  "author": "Alleo Indong",
+  "license": "MIT"
+}
