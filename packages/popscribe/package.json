@@ -5,6 +5,7 @@
   "bin": {
     "popscribe": "./bin/popscribe.ts"
   },
+  "main": "./lib",
   "keywords": [
     "cms",
     "react",

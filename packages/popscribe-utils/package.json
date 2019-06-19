@@ -2,6 +2,7 @@
   "name": "popsribe-utils",
   "version": "0.0.2",
   "description": "Utility library for popscribe",
+  "main": "./lib",
   "keywords": [
     "popscribe",
     "utility",
