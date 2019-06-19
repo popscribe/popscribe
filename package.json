@@ -1,5 +1,5 @@
 {
-  "name": "popsribe",
+  "name": "popscribe",
   "private": true,
   "version": "0.0.1",
   "description": "A cms using react, graphql and modern tools",
